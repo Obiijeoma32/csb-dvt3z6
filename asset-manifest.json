@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://obiijeoma32.github.io/csb-dvt3z6/static/js/main.601a2828.chunk.js",
+    "main.js.map": "https://obiijeoma32.github.io/csb-dvt3z6/static/js/main.601a2828.chunk.js.map",
+    "runtime-main.js": "https://obiijeoma32.github.io/csb-dvt3z6/static/js/runtime-main.e0987335.js",
+    "runtime-main.js.map": "https://obiijeoma32.github.io/csb-dvt3z6/static/js/runtime-main.e0987335.js.map",
+    "static/js/2.25f74dec.chunk.js": "https://obiijeoma32.github.io/csb-dvt3z6/static/js/2.25f74dec.chunk.js",
+    "static/js/2.25f74dec.chunk.js.map": "https://obiijeoma32.github.io/csb-dvt3z6/static/js/2.25f74dec.chunk.js.map",
+    "index.html": "https://obiijeoma32.github.io/csb-dvt3z6/index.html",
+    "precache-manifest.b7cbebfc0006901e2703a1e16560dcd4.js": "https://obiijeoma32.github.io/csb-dvt3z6/precache-manifest.b7cbebfc0006901e2703a1e16560dcd4.js",
+    "service-worker.js": "https://obiijeoma32.github.io/csb-dvt3z6/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0987335.js",
+    "static/js/2.25f74dec.chunk.js",
+    "static/js/main.601a2828.chunk.js"
+  ]
+}
